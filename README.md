@@ -64,7 +64,7 @@ The platform includes career exploration, personalised career suggestions, unive
 
 **Technologies:** Next.js, React, TypeScript, Python, FastAPI, SQLite, Machine Learning
 
-### 🇰🇭 Cambodia Timeline Portfolio
+###Cambodia Timeline Portfolio
 
 An interactive web portfolio that presents **Cambodia's history and modern development** through a visual timeline.
 
